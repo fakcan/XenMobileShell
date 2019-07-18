@@ -1,6 +1,6 @@
 #
 # Forked and modified by Fırat AKCAN
-# 14.08.2018 - firat.akcan@yapikredi.com.tr | akcan.firat@gmail.com
+# 14.08.2018 - akcan.firat |at| gmail |dot| com
 # 
 #
 # Version: 1.2.0
